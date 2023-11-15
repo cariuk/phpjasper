@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b906ba6-53f5-4671-88fb-abb1468e7e96" name="Default" comment="feat: fixing composer providers">
+    <list default="true" id="4b906ba6-53f5-4671-88fb-abb1468e7e96" name="Default" comment="feat: composer upgrade">
+      <change afterPath="$PROJECT_DIR$/src/JasperPHPServiceProvider.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
@@ -105,7 +106,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/local/Cellar/php@7.4/7.4.33_4/bin/php">
+  <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/composer" />
     </include_path>
@@ -235,7 +236,7 @@
       <workItem from="1494331651823" duration="16868000" />
       <workItem from="1494416490446" duration="5430000" />
       <workItem from="1494424434085" duration="2936000" />
-      <workItem from="1700055947323" duration="102000" />
+      <workItem from="1700055947323" duration="961000" />
     </task>
     <task id="LOCAL-00001" summary="feat: support mysql 8, update jasperstarter an and update jar mysql connector">
       <option name="closed" value="true" />
@@ -253,7 +254,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700055059657</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: composer upgrade">
+      <option name="closed" value="true" />
+      <created>1700056098493</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700056098493</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -321,7 +330,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="feat: support mysql 8, update jasperstarter an and update jar mysql connector" />
     <MESSAGE value="feat: fixing composer providers" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: fixing composer providers" />
+    <MESSAGE value="feat: composer upgrade" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: composer upgrade" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/vendor/lavela/phpjasper/src/JasperPHP/JasperPHP.php">
