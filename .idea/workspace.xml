@@ -1,236 +1,435 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4b906ba6-53f5-4671-88fb-abb1468e7e96" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/phpjasper.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/csvExample.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/hello_world_csv.jrxml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/hello_world_xml.jrxml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/xmlExample.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/autoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/phpunit.xml.dist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/changes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/changes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/css/apache-maven-fluido.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/css/print.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/css/site.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/dependencies.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/files.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/accessories-text-editor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/add.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/apache-maven-project-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/application-certificate.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/close.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/collapsed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/contact-new.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/document-properties.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/drive-harddisk.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/expanded.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/fix.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/icon_error_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/icon_help_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/icon_info_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/icon_success_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/icon_warning_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/image-x-generic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/internet-web-browser.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/logos/build-by-maven-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/logos/build-by-maven-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/logos/maven-feather.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/network-server.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/package-x-generic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/profiles/pre-release.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/profiles/retired.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/profiles/sandbox.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/remove.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/rss.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/update.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/images/window-new.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/issue-tracking.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/js/apache-maven-fluido.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/license.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/project-info.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/project-summary.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/screenshots.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/source-repository.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/team-list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/unicode-pdf-export.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/cs/usage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/css/apache-maven-fluido.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/css/print.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/css/site.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/changes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/css/apache-maven-fluido.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/css/print.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/css/site.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/dependencies.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/files.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/accessories-text-editor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/add.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/apache-maven-project-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/application-certificate.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/close.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/collapsed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/contact-new.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/document-properties.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/drive-harddisk.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/expanded.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/fix.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/icon_error_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/icon_help_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/icon_info_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/icon_success_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/icon_warning_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/image-x-generic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/internet-web-browser.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/logos/build-by-maven-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/logos/build-by-maven-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/logos/maven-feather.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/network-server.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/package-x-generic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/profiles/pre-release.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/profiles/retired.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/profiles/sandbox.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/remove.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/rss.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/update.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/images/window-new.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/issue-tracking.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/js/apache-maven-fluido.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/license.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/project-info.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/project-summary.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/screenshots.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/source-repository.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/team-list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/unicode-pdf-export.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/de/usage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/dependencies.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/files.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/JasperStarter_screenshot-help.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/JasperStarter_screenshot-pr-help.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/JasperStarter_screenshot_parameter-prompt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/JasperStarter_screenshot_print_dialog.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/JasperStarter_screenshot_view.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/accessories-text-editor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/add.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/apache-maven-project-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/application-certificate.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/close.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/collapsed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/contact-new.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/document-properties.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/drive-harddisk.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/expanded.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/fix.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/icon_error_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/icon_help_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/icon_info_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/icon_success_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/icon_warning_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/image-x-generic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/internet-web-browser.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/logos/build-by-maven-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/logos/build-by-maven-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/logos/maven-feather.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/network-server.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/package-x-generic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/profiles/pre-release.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/profiles/retired.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/profiles/sandbox.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/remove.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/rss.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/update.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/images/window-new.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/issue-tracking.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/js/apache-maven-fluido.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/license.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/project-info.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/project-summary.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/references.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/screenshots.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/source-repository.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/team-list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/unicode-pdf-export.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/docs/usage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/jdbc/arial.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/jdbc/mysql-connector-java-5.1.34-bin.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/jdbc/ptsans.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/ant-1.9.7.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/argparse4j-0.7.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/batik-anim-1.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/batik-awt-util-1.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/batik-bridge-1.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/batik-css-1.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/batik-dom-1.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/batik-ext-1.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/batik-gvt-1.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/batik-parser-1.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/batik-script-1.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/batik-svg-dom-1.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/batik-svggen-1.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/batik-util-1.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/batik-xml-1.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/commons-codec-1.10.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/commons-collections-3.2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/commons-collections4-4.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/commons-io-2.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/core-3.2.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/dom4j-1.6.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/groovy-all-2.4.7.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/icu4j-57.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/itext-4.2.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/jasperreports-6.3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/jasperreports-functions-6.0.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/jasperstarter_ORI.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/javastarter.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/jcommon-1.0.23.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/jfreechart-1.0.19.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/pdf-renderer-1.0.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/poi-3.15.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/servlet-api-3.0-alpha-1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/xalan-2.7.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/xml-apis-1.3.04.jar" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/contacts.json" afterPath="$PROJECT_DIR$/examples/jsonExample.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/json.jrxml" afterPath="$PROJECT_DIR$/examples/hello_world_json.jrxml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/itext-2.1.7.js5.jar" afterPath="$PROJECT_DIR$/src/JasperStarter/lib/itext-2.1.7.js2.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/jasperreports-6.0.4.jar" afterPath="$PROJECT_DIR$/src/JasperStarter/lib/jasperreports-6.1.0.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/joda-time-2.1.jar" afterPath="$PROJECT_DIR$/src/JasperStarter/lib/joda-time-2.0.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JasperStarter/bin/jasperstarter.exe" afterPath="$PROJECT_DIR$/src/JasperStarter/bin/jasperstarter.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JasperStarter/lib/jasperstarter.jar" afterPath="$PROJECT_DIR$/src/JasperStarter/lib/jasperstarter.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JasperPHP/JasperPHP.php" afterPath="$PROJECT_DIR$/src/JasperPHP/JasperPHP.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JasperStarter/README.md" afterPath="$PROJECT_DIR$/src/JasperStarter/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JasperStarter/bin/jasperstarter" afterPath="$PROJECT_DIR$/src/JasperStarter/bin/jasperstarter" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/bin/bin/jasperstarter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/bin/bin/jasperstarter.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/allclasses-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/allclasses-noframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/de/cenote/jasperstarter/App.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/de/cenote/jasperstarter/Config.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/de/cenote/jasperstarter/Db.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/de/cenote/jasperstarter/Report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/de/cenote/jasperstarter/class-use/App.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/de/cenote/jasperstarter/class-use/Config.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/de/cenote/jasperstarter/class-use/Db.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/de/cenote/jasperstarter/class-use/Report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/de/cenote/jasperstarter/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/de/cenote/jasperstarter/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/de/cenote/jasperstarter/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/de/cenote/jasperstarter/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/de/cenote/jasperstarter/types/AskFilter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/de/cenote/jasperstarter/types/Command.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/de/cenote/jasperstarter/types/Dest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/de/cenote/jasperstarter/types/DsType.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/de/cenote/jasperstarter/types/InputType.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/de/cenote/jasperstarter/types/OutputFormat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/de/cenote/jasperstarter/types/class-use/AskFilter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/de/cenote/jasperstarter/types/class-use/Command.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/de/cenote/jasperstarter/types/class-use/Dest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/de/cenote/jasperstarter/types/class-use/DsType.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/de/cenote/jasperstarter/types/class-use/InputType.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/de/cenote/jasperstarter/types/class-use/OutputFormat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/de/cenote/jasperstarter/types/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/de/cenote/jasperstarter/types/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/de/cenote/jasperstarter/types/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/de/cenote/jasperstarter/types/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/index-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/overview-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/overview-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/package-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/apidocs/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/changes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/allclasses-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/allclasses-noframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/de/cenote/jasperstarter/App.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/de/cenote/jasperstarter/Config.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/de/cenote/jasperstarter/Db.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/de/cenote/jasperstarter/Report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/de/cenote/jasperstarter/class-use/App.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/de/cenote/jasperstarter/class-use/Config.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/de/cenote/jasperstarter/class-use/Db.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/de/cenote/jasperstarter/class-use/Report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/de/cenote/jasperstarter/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/de/cenote/jasperstarter/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/de/cenote/jasperstarter/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/de/cenote/jasperstarter/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/de/cenote/jasperstarter/types/AskFilter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/de/cenote/jasperstarter/types/Command.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/de/cenote/jasperstarter/types/Dest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/de/cenote/jasperstarter/types/DsType.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/de/cenote/jasperstarter/types/InputType.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/de/cenote/jasperstarter/types/OutputFormat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/de/cenote/jasperstarter/types/class-use/AskFilter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/de/cenote/jasperstarter/types/class-use/Command.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/de/cenote/jasperstarter/types/class-use/Dest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/de/cenote/jasperstarter/types/class-use/DsType.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/de/cenote/jasperstarter/types/class-use/InputType.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/de/cenote/jasperstarter/types/class-use/OutputFormat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/de/cenote/jasperstarter/types/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/de/cenote/jasperstarter/types/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/de/cenote/jasperstarter/types/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/de/cenote/jasperstarter/types/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/index-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/overview-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/overview-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/package-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/apidocs/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/changes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/css/apache-maven-fluido.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/css/print.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/css/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/dependencies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/files.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/accessories-text-editor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/add.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/apache-maven-project-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/application-certificate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/close.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/collapsed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/contact-new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/document-properties.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/drive-harddisk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/expanded.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/fix.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/icon_error_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/icon_help_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/icon_info_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/icon_success_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/icon_warning_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/image-x-generic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/internet-web-browser.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/logos/build-by-maven-black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/logos/build-by-maven-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/logos/maven-feather.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/network-server.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/package-x-generic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/profiles/pre-release.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/profiles/retired.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/profiles/sandbox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/remove.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/rss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/update.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/images/window-new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/issue-tracking.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/js/apache-maven-fluido.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/license.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/project-info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/project-reports.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/project-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/screenshots.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/source-repository.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/team-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/unicode-pdf-export.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/cs/usage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/css/apache-maven-fluido.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/css/print.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/css/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/allclasses-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/allclasses-noframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/de/cenote/jasperstarter/App.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/de/cenote/jasperstarter/Config.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/de/cenote/jasperstarter/Db.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/de/cenote/jasperstarter/Report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/de/cenote/jasperstarter/class-use/App.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/de/cenote/jasperstarter/class-use/Config.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/de/cenote/jasperstarter/class-use/Db.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/de/cenote/jasperstarter/class-use/Report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/de/cenote/jasperstarter/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/de/cenote/jasperstarter/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/de/cenote/jasperstarter/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/de/cenote/jasperstarter/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/de/cenote/jasperstarter/types/AskFilter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/de/cenote/jasperstarter/types/Command.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/de/cenote/jasperstarter/types/Dest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/de/cenote/jasperstarter/types/DsType.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/de/cenote/jasperstarter/types/InputType.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/de/cenote/jasperstarter/types/OutputFormat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/de/cenote/jasperstarter/types/class-use/AskFilter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/de/cenote/jasperstarter/types/class-use/Command.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/de/cenote/jasperstarter/types/class-use/Dest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/de/cenote/jasperstarter/types/class-use/DsType.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/de/cenote/jasperstarter/types/class-use/InputType.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/de/cenote/jasperstarter/types/class-use/OutputFormat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/de/cenote/jasperstarter/types/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/de/cenote/jasperstarter/types/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/de/cenote/jasperstarter/types/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/de/cenote/jasperstarter/types/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/index-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/overview-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/overview-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/package-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/apidocs/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/changes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/css/apache-maven-fluido.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/css/print.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/css/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/dependencies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/files.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/accessories-text-editor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/add.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/apache-maven-project-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/application-certificate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/close.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/collapsed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/contact-new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/document-properties.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/drive-harddisk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/expanded.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/fix.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/icon_error_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/icon_help_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/icon_info_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/icon_success_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/icon_warning_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/image-x-generic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/internet-web-browser.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/logos/build-by-maven-black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/logos/build-by-maven-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/logos/maven-feather.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/network-server.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/package-x-generic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/profiles/pre-release.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/profiles/retired.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/profiles/sandbox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/remove.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/rss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/update.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/images/window-new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/issue-tracking.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/js/apache-maven-fluido.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/license.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/project-info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/project-reports.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/project-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/screenshots.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/source-repository.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/team-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/unicode-pdf-export.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/de/usage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/dependencies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/files.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/JasperStarter_screenshot-help.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/JasperStarter_screenshot-pr-help.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/JasperStarter_screenshot_parameter-prompt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/JasperStarter_screenshot_print_dialog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/JasperStarter_screenshot_view.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/accessories-text-editor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/add.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/apache-maven-project-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/application-certificate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/close.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/collapsed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/contact-new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/document-properties.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/drive-harddisk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/expanded.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/fix.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/icon_error_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/icon_help_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/icon_info_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/icon_success_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/icon_warning_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/image-x-generic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/internet-web-browser.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/logos/build-by-maven-black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/logos/build-by-maven-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/logos/maven-feather.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/network-server.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/package-x-generic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/profiles/pre-release.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/profiles/retired.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/profiles/sandbox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/remove.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/rss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/update.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/images/window-new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/issue-tracking.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/js/apache-maven-fluido.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/license.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/project-info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/project-reports.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/project-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/screenshots.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/source-repository.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/team-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/unicode-pdf-export.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/docs/usage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/examples/Blank_A4_1.jrxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/examples/CancelAck.jrxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/examples/CancelAck.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/examples/barcode4j.jrxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/examples/barcode4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/examples/charactersetTest.jrxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/examples/charactersetTestWithJavaScript.jrxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/examples/charactersetTestWithStudioBuiltinFunctions.jrxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/examples/contacts.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/examples/contacts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/examples/csv.jrxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/examples/csvExampleHeaders.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/examples/csvMeta.jrxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/examples/details.jrxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/examples/header.jrxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/examples/i18n-bundle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/examples/i18n-bundle_de.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/examples/i18n-bundle_ru.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/examples/json.jrxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/examples/jsonql.jrxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/examples/main.jrxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/examples/noDB-i18n.jrxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/examples/noDB-params.jrxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/examples/python/jasperstarter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/jdbc/mysql-connector-java-5.1.49.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/antlr-3.0b5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-anim-1.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-awt-util-1.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-bridge-1.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-constants-1.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-css-1.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-dom-1.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-ext-1.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-gvt-1.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-i18n-1.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-parser-1.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-script-1.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-svg-dom-1.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-svggen-1.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-util-1.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-xml-1.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/bcprov-jdk15on-1.68.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/castor-core-1.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/castor-xml-1.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/commons-beanutils-1.9.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/commons-codec-1.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/commons-collections4-4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/commons-io-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/commons-lang3-3.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/core-2.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/ecj-3.21.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/itext-2.1.7.js9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/jackson-annotations-2.12.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/jackson-core-2.12.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/jackson-databind-2.12.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/jasperreports-6.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/jasperreports-chart-customizers-6.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/jasperreports-chart-themes-6.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/jasperreports-functions-6.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/joda-time-2.9.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/jython-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/log4j-api-2.17.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/log4j-core-2.17.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/poi-3.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/rhino-1.7.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/serializer-2.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/spring-beans-4.3.21.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/spring-core-4.3.21.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/spring-expression-4.3.21.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/stringtemplate-3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/xalan-2.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/xmlgraphics-commons-2.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/phpjasper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/phpjasper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/CHANGES" beforeDir="false" afterPath="$PROJECT_DIR$/bin/jasperstarter/CHANGES" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/bin/jasperstarter/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/NOTICE" beforeDir="false" afterPath="$PROJECT_DIR$/bin/jasperstarter/NOTICE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/jasperstarter/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/jdbc/README" beforeDir="false" afterPath="$PROJECT_DIR$/bin/jasperstarter/jdbc/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/jdbc/mysql-connector-java-5.1.39-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-anim-1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-awt-util-1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-bridge-1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-css-1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-dom-1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-ext-1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-gvt-1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-js-1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-parser-1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-script-1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-svg-dom-1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-svggen-1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-util-1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-xml-1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/bcmail-jdk14-1.38.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/bcmail-jdk14-138.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/bcprov-jdk14-1.38.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/bcprov-jdk14-138.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/bctsp-jdk14-1.38.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/castor-core-1.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/castor-xml-1.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/commons-beanutils-1.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/commons-codec-1.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/commons-io-2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/core-3.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/ecj-4.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/groovy-all-2.4.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/groovy-all-2.4.12.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/icu4j-57.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/itext-2.1.7.js5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/jackson-annotations-2.1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/jackson-core-2.1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/jackson-databind-2.1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/jakarta-regexp-1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/jasperreports-6.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/jasperreports-fonts-6.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/jasperreports-fonts-6.18.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/jasperreports-functions-6.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/jasperstarter.jar" beforeDir="false" afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/jasperstarter.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/joda-time-2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/log4j-1.2.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/lucene-analyzers-common-4.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/lucene-core-4.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/lucene-queries-4.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/lucene-queryparser-4.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/lucene-sandbox-4.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/olap4j-0.9.7.309-JS-3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/poi-3.10-FINAL.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/rhino-1.7.7.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/spring-aop-3.0.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/spring-asm-3.0.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/spring-beans-3.0.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/spring-context-3.0.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/spring-core-3.0.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/spring-expression-3.0.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/stax-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/stax-api-1.0-2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/stax-api-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/xalan-2.6.0.jar" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
@@ -308,7 +507,6 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
@@ -380,73 +578,32 @@
       </pane>
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
-    <property name="js.eslint.eslintPackage" value="" />
-    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../phpjasperoriginal" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/mopilie/PhpstormProjects/phpjasper/bin/jasperstarter/bin",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bin/jasperstarter/bin" />
+      <recent name="$PROJECT_DIR$/bin/jasperstarter" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
-      <method />
-    </configuration>
-    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
-      <BehatRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
-      <PhpTestRunnerSettings />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+    <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
       <arguments />
       <envs />
-      <method />
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory />
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui />
-      <extra-mocha-options />
-      <test-kind>DIRECTORY</test-kind>
-      <test-directory />
-      <recursive>false</recursive>
-      <method />
-    </configuration>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -509,17 +666,8 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
-  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="2" />
-    </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/vendor/lavela/phpjasper/src/JasperPHP/JasperPHP.php">
