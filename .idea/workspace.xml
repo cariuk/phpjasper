@@ -5,125 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b906ba6-53f5-4671-88fb-abb1468e7e96" name="Default" comment="feat: update mysql connector">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/antlr-2.7.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/antlr-3.0b5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-anim-1.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-awt-util-1.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-bridge-1.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-constants-1.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-css-1.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-dom-1.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-ext-1.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-gvt-1.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-i18n-1.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-parser-1.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-script-1.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-svg-dom-1.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-svggen-1.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-util-1.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-xml-1.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/bcprov-jdk15on-1.68.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/castor-core-1.4.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/castor-xml-1.4.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/commons-beanutils-1.9.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/commons-codec-1.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/commons-collections4-4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/commons-io-2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/commons-lang3-3.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/core-2.3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/ecj-3.21.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/itext-2.1.7.js9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/jackson-annotations-2.12.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/jackson-core-2.12.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/jackson-databind-2.12.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/jasperreports-6.18.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/jasperreports-chart-customizers-6.18.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/jasperreports-chart-themes-6.18.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/jasperreports-functions-6.18.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/joda-time-2.9.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/jython-2.7.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/log4j-api-2.17.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/log4j-core-2.17.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/poi-3.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/rhino-1.7.7.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/serializer-2.7.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/spring-beans-4.3.21.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/spring-core-4.3.21.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/spring-expression-4.3.21.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/stringtemplate-3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/xalan-2.7.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/xmlgraphics-commons-2.2.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/bin/jasperstarter" beforeDir="false" afterPath="$PROJECT_DIR$/bin/jasperstarter/bin/jasperstarter" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/bin/jasperstarter.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/jasperstarter/bin/jasperstarter.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/aopalliance-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-anim-1.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-awt-util-1.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-bridge-1.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-css-1.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-dom-1.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-ext-1.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-gvt-1.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-js-1.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-parser-1.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-script-1.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-svg-dom-1.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-svggen-1.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-util-1.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/batik-xml-1.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/bcmail-jdk14-1.38.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/bcmail-jdk14-138.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/bcprov-jdk14-1.38.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/bcprov-jdk14-138.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/bctsp-jdk14-1.38.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/castor-core-1.3.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/castor-xml-1.3.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/commons-beanutils-1.9.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/commons-codec-1.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/commons-io-2.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/core-3.2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/ecj-4.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/groovy-all-2.4.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/groovy-all-2.4.12.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/icu4j-57.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/itext-2.1.7.js5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/jackson-annotations-2.1.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/jackson-core-2.1.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/jackson-databind-2.1.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/jakarta-regexp-1.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/jasperreports-6.4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/jasperreports-fonts-6.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/jasperreports-fonts-6.18.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/jasperreports-functions-6.4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/jasperstarter.jar" beforeDir="false" afterPath="$PROJECT_DIR$/bin/jasperstarter/lib/jasperstarter.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/joda-time-2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/log4j-1.2.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/lucene-analyzers-common-4.5.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/lucene-core-4.5.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/lucene-queries-4.5.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/lucene-queryparser-4.5.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/lucene-sandbox-4.5.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/olap4j-0.9.7.309-JS-3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/poi-3.10-FINAL.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/rhino-1.7.7.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/spring-aop-3.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/spring-asm-3.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/spring-beans-3.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/spring-context-3.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/spring-core-3.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/spring-expression-3.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/stax-1.2.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/stax-api-1.0-2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/stax-api-1.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jasperstarter/lib/xalan-2.6.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/autoload.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,6 +75,11 @@
     </commandsHistory>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -294,21 +181,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "feat/upgrade__support__mysql8",
-    "last_opened_file_path": "/Users/mopilie/PhpstormProjects/phpjasper",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feat/upgrade__support__mysql8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mopilie/PhpstormProjects/phpjasper&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />

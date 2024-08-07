@@ -213,7 +213,7 @@ class PHPJasper
         exec($this->command, $output, $returnVar);
         if ($returnVar !== 0) {
             //throw new \PHPJasper\Exception\ErrorCommandExecutable();
-            throw new \Exception("{$output[0]}", 1);
+            throw new \Exception(implode("|",$output), 1);
         }
 
         return $output;
